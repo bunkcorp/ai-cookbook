@@ -21,3 +21,23 @@ Continue learning – wherever you are in your AI journey.
 3. 💸 **Launch or grow your freelance AI business**     
    Discover how to land clients, structure work, and scale  
    ▶︎ [Find Freelance Projects](https://go.datalumina.com/MVWhVn9)
+
+## 🪨 GettingStoned Project
+
+A complete Sora marketing video system for the GettingStoned app, featuring manifesto-driven video generation, logo integration, and comprehensive marketing strategy.
+
+**Location**: `projects/gettingstoned/`
+
+**Quick Start**:
+```bash
+cd projects/gettingstoned
+./setup_sora_marketing.sh
+python sora_marketing_generator.py single hero_stress_to_calm
+```
+
+**Features**:
+- 🎬 18 Sora video types (8 standard + 10 manifesto)
+- 🎨 GettingStoned logo integration
+- 🧠 Manifesto-driven marketing philosophy
+- 📱 Complete distribution strategy
+- 🚀 Ready-to-use Python scripts
